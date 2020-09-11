@@ -1,6 +1,6 @@
-## [Microsoft.Source Newsletter](https://azure.microsoft.com/en-in/resources/join-the-azure-developer-community/?wt.mc_id=AID3018158_QSG_EML_NLTR_445400&ocid=AID3018158_QSG_EML_NLTR_445400)
+## [Microsoft.Source Newsletter](https://azure.microsoft.com/en-in/resources/join-the-azure-developer-community/?wt.mc_id=AID3018158_QSG_EML_NLTR_445400&ocid=AID3018158_QSG_EML_NLTR_445400&WT.mc_id=arsaha)
 
-Sign up for the [Microsoft.Source Newsletter](https://azure.microsoft.com/en-in/resources/join-the-azure-developer-community/?wt.mc_id=AID3018158_QSG_EML_NLTR_445400&ocid=AID3018158_QSG_EML_NLTR_445400) to receive a regular digest of relevant technical content, events, training, sample code, and workshops.
+Sign up for the [Microsoft.Source Newsletter](https://azure.microsoft.com/en-in/resources/join-the-azure-developer-community/?wt.mc_id=AID3018158_QSG_EML_NLTR_445400&ocid=AID3018158_QSG_EML_NLTR_445400&WT.mc_id=arsaha) to receive a regular digest of relevant technical content, events, training, sample code, and workshops.
 
 ## API Learning Materials - APIAugust
 
