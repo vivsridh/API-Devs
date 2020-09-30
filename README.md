@@ -1,4 +1,4 @@
-## [Microsoft.Source Newsletter](https://azure.microsoft.com/en-in/resources/join-the-azure-developer-community/?wt.mc_id=AID3018158_QSG_EML_NLTR_445400&ocid=AID3018158_QSG_EML_NLTR_445400&WT.mc_id=arsaha)
+## [Microsoft.Source Newsletter](https://azure.microsoft.com/en-in/resources/join-the-azure-developer-community/?wt.mc_id=AID3018158_QSG_EML_NLTR_445400&ocid=AID3018158_QSG_EML_NLTR_445400)
 
 Sign up for the [Microsoft.Source Newsletter](https://azure.microsoft.com/en-in/resources/join-the-azure-developer-community/?wt.mc_id=AID3018158_QSG_EML_NLTR_445400&ocid=AID3018158_QSG_EML_NLTR_445400&WT.mc_id=arsaha) to receive a regular digest of relevant technical content, events, training, sample code, and workshops.
 
@@ -8,7 +8,7 @@ This repo provides content to get started with API development & learn some adva
 
 ### Serverless Learning Collection
 
-Serverless progamming model learning collection by Vivek Sridhar - [Collection](https://docs.microsoft.com/en-us/users/viveksridhar-6316/collections/56juwyn7w722e?wt.mc_id=AID3018158_QSG_SCL_453306&ocid=AID3018158_QSG_SCL_453306)
+Serverless progamming model learning collection - [Collection](https://docs.microsoft.com/en-us/users/viveksridhar-6316/collections/56juwyn7w722e?wt.mc_id=AID3018158_QSG_SCL_453306&ocid=AID3018158_QSG_SCL_453306)
 
 ### Tutorials & Workshops
 
